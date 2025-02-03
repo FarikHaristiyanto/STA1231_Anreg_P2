@@ -2,3 +2,5 @@
 
 Repository materi praktikum mata kuliah STA1231 - Analisis Regresi Paralel 2 (2025)
 Gua update readme
+
+tambah baru
